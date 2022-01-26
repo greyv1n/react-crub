@@ -28,7 +28,7 @@ function Form({
     return (
         <>
             <h1> {(typeBtn).toUpperCase()} USER</h1>
-            <div className='form-wrap'>
+            <div className='form-wrap' style={{ background: 'blue' }}>
                 <form className='form' onSubmit={handleSubmit}>
                     <input
                         type="text"

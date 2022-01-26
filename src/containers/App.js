@@ -59,7 +59,7 @@ function App() {
 
   return (
     <div className='container'>
-      <div className="header">
+      <div className="header" style={{ background: 'red' }}>
         {showForm
           ? <Form
             cbAddUser={addUser}

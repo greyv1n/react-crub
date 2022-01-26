@@ -3,8 +3,8 @@ import { Form } from './Form'
 import { Card } from '../components/Card'
 
 const data = [
-  { id: '0', name: 'alex', phone: '097733777' },
-  { id: '1', name: 'anna', phone: '092227771' },
+  { id: '0', name: 'alex', phone: '097733444' },
+  { id: '1', name: 'anna', phone: '097733333' },
   { id: '3', name: 'marina', phone: '090002221' }
 ]
 
